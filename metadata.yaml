@@ -1,5 +1,8 @@
 _repo: A-District-Messenger-Boy-and-A-Necktie-Party_5882
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Otis, James
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1433'
     url: http://www.gutenberg.org/2009/agents/1433
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5882#A-District-Messenger-Boy-and-A-Necktie-Party
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
